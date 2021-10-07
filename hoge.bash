@@ -1,4 +1,5 @@
 #!/bin/bash
+# written by hogehoge
 
 echo hoge
 echo hoge
